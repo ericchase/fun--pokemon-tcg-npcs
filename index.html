@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PokemonTCG</title>
+    <script src="./index.js" defer></script>
+    <style>
+      :root {
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      }
+      img.character-image {
+        padding: 1em;
+      }
+      div.character-list {
+        margin-bottom: 1em;
+      }
+      div.name-pack {
+        font-weight: bold;
+      }
+    </style>
+  </head>
+  <body>
+    <template id="template-club">
+      <div><img class="club-image" src="" alt="" width="320" /></div>
+      <div class="character-list"></div>
+    </template>
+    <template id="template-character">
+      <div class="name-pack"></div>
+      <div><img class="character-image" src="" alt="" width="160" /></div>
+    </template>
+  </body>
+</html>

@@ -1,0 +1,78 @@
+{
+  "clubs": [
+    {
+      "name": "Grass"
+    },
+    {
+      "name": "Lightning"
+    },
+    {
+      "name": "Psychic"
+    },
+    {
+      "name": "Rock"
+    }
+  ],
+  "characters": [
+    {
+      "club": "Grass",
+      "name": "Brittany",
+      "pack": "Mystery"
+    },
+    {
+      "club": "Lightning",
+      "name": "Brandon",
+      "pack": "Colosseum"
+    },
+    {
+      "club": "Lightning",
+      "name": "Isaac",
+      "pack": "Mystery"
+    },
+    {
+      "club": "Lightning",
+      "name": "Jennifer",
+      "pack": "Mystery"
+    },
+    {
+      "club": "Lightning",
+      "name": "Nicholas",
+      "pack": "Colosseum"
+    },
+    {
+      "club": "Psychic",
+      "name": "Daniel",
+      "pack": "Evolution"
+    },
+    {
+      "club": "Psychic",
+      "name": "Robert",
+      "pack": "Evolution"
+    },
+    {
+      "club": "Psychic",
+      "name": "Stephanie",
+      "pack": "Laboratory"
+    },
+    {
+      "club": "Rock",
+      "name": "Andrew",
+      "pack": "Colosseum"
+    },
+    {
+      "club": "Rock",
+      "name": "Gene",
+      "pack": "Mystery"
+    },
+    {
+      "club": "Rock",
+      "name": "Matthew",
+      "pack": "Mystery"
+    },
+    {
+      "club": "Rock",
+      "name": "Ryan",
+      "pack": "Evolution"
+    }
+  ]
+}
